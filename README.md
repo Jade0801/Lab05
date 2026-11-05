@@ -122,3 +122,4 @@ repository. I check it instead by running it on a fresh clone and comparing
 - The threshold grid is coarse (0.05) and chosen from one set of folds.
 - No calibration check on the probabilities.
 - Only one tuned model; no cost-based scoring in the grid search.
+
